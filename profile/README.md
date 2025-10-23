@@ -5,8 +5,8 @@
 ### Trust-first AI orchestration
 
 [![Website](https://img.shields.io/badge/Website-rodiun.io-blue)](https://rodiun.io)
-[![Twitter](https://img.shields.io/twitter/follow/RodiunHQ?style=social)](https://twitter.com/RodiunHQ)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rodiun-0077B5)](https://linkedin.com/company/rodiun)
+[![Twitter](https://img.shields.io/twitter/follow/rodiun_io?style=social)](https://x.com/rodiun_io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rodiun-0077B5)](https://linkedin.com/company/rodiunio)
 
 </div>
 
@@ -38,8 +38,8 @@ Building the foundation for trust-first AI orchestration:
 ## Building in Public
 
 We're at the beginning of our journey. Follow along:
-- 🐦 [Twitter/X: @RodiunHQ](https://twitter.com/RodiunHQ)
-- 💼 [LinkedIn: /company/rodiun](https://linkedin.com/company/rodiun)
+- 🐦 [X: @rodiun_io](https://x.com/rodiun_io)
+- 💼 [LinkedIn: /company/rodiun](https://linkedin.com/company/rodiunio)
 - 🌐 [Website: rodiun.io](https://rodiun.io)
 
 ---
