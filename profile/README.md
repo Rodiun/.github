@@ -2,10 +2,16 @@
 
 # Rodiun
 
-**Capability liquidity for teams built to evolve.**
+### Take control of your AI stack.
 
-Currently in private development. Waitlist open at [rodiun.io](https://rodiun.io).
+Lean, local-first developer tools — they show you what your AI is doing
+and what it costs, collect nothing, and stay out of your way.
 
-[X](https://x.com/rodiun_io) · [LinkedIn](https://linkedin.com/company/rodiunio)
+The first is **[Frugon](https://github.com/Rodiun/frugon)**: see where your
+LLM bill leaks, on your machine. Local, honest, MIT.
+
+`pipx install frugon`
+
+[frugon.rodiun.io](https://frugon.rodiun.io) · [X](https://x.com/rodiun_io) · [LinkedIn](https://linkedin.com/company/rodiunio)
 
 </div>
